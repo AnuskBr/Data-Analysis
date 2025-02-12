@@ -11,4 +11,4 @@ This project explores character deaths in Game of Thrones using statistical meth
 ### Results & Conclusions:
 Findings reveal key survival trends and relationships between character attributes.
 
-📌 For more details, check the full analysis in the repository and the [documentation](/Doc_AD.pdf) available in Romanian.
+📌 For more details, check the full analysis in the repository and the [documentation](./Doc_AD.pdf) available in Romanian.
