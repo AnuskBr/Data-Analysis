@@ -1,4 +1,4 @@
-## GoT Analysis
+# GoT Analysis
 This project explores character deaths in Game of Thrones using statistical methods to identify patterns.
 
 ### Methods Used:
